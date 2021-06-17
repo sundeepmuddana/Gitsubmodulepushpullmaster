@@ -1,0 +1,3 @@
+[submodule "Gitsubmodulepushpull"]
+	path = Gitsubmodulepushpull
+	url = https://github.com/sundeepmuddana/Gitsubmodulepushpull.git
